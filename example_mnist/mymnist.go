@@ -1,6 +1,6 @@
 package main
 import (
-    "../gonn"
+    "github.com/donspaulding/gonn/gonn"
     "encoding/binary"
     "io"
     "os"
